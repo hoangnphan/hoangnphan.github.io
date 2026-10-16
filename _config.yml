@@ -2,8 +2,8 @@
 title               : Hoang Phan
 description         : >-
                       Hi! I am Hoang Phan, a game engineer
-                      passionate about core gameplay systems
-                      and engine programming.
+                      passionate about building gameplay
+                      and engine systems.
 baseurl             : ""                                    # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : hoangnphan/hoangnphan.github.io       # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
