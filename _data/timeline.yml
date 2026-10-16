@@ -1,0 +1,30 @@
+- title: Software Engineer (Gameplay Generalist), Survios Inc.
+  from: 2019
+  to: 2026
+  description: |
+    Worked on 3 shipped titles: <i>The Walking Dead: Onslaught, Creed: Rise to Glory - Championship Edition, Alien: Rogue Incursion</i>, and various R&D projects in Unreal Engine 4/5.<br /><br />
+    • Implemented gameplay features spanning 3Cs, NPC, combat, UI, animation, and physics throughout the development of the projects, from pre-production prototyping to post-launch maintenance.<br />
+    • Built a dynamic AI spawning system that leverages actor pooling and simulation to reduce unnecessary computation.<br />
+    • Developed engine tools and automated testing pipelines for a proprietary AI navigation system using Slate, Unreal Automation and Jenkins.<br />
+  
+- title: Software Engineer II, Vantix Inc. (Hanoi, Vietnam)
+  from: 05/2019
+  to: 06/2019
+  description: |
+    •	Developed solutions for reducing the operation cost of our clients using high-volume user data management and analytics in Microsoft Azure ecosystem.<br />
+    •	Architected and developed CI/CD testing and integration pipelines to enable rapid iteration for a cross-disciplinary team of engineers and data scientists.
+
+- title: Software Engineer Intern, FPT Software (Hanoi, Vietnam)
+  from: 05/2018
+  to: 08/2018
+  description: |
+    •	Contributed to the development of a set of adapatable testing tools for communication among automobile components, under the Controller Area Network bus.<br />
+    •	Delivered UI/UX solutions by fine-tuning WPF custom controls and optimizing the rendering process through reactive UI component rendering.
+
+
+- title: Student, University of Southern California
+  from: 2015
+  to: 2020
+  description: |
+    • Master of Science: Computer Science<br /> 
+    • Bachelor of Science: Computer Science (Games)

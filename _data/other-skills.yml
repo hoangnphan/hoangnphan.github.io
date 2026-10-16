@@ -1,0 +1,15 @@
+- name: AI (Behaviors, Perception, Navigation)
+  percentage: 90
+  color: success
+
+- name: 3Cs, Interactions, Abilities
+  percentage: 75
+  color: warning
+
+- name: Testing/Optimization
+  percentage: 50
+  color: info
+
+- name: Editor Tooling
+  percentage: 40
+  color: primary

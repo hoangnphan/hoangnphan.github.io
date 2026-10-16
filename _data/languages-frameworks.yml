@@ -1,0 +1,15 @@
+- name: C++/Unreal
+  percentage: 80
+  color: success
+
+- name: Javascript/Typescript
+  percentage: 60
+  color: warning
+
+- name: C#/Unity
+  percentage: 30
+  color: info
+
+- name: Go, Python
+  percentage: 20
+  color: primary
