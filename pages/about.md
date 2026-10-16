@@ -12,7 +12,7 @@ Hello there! I am a game engineer with **7** years of experience building gamepl
 I worked on some pretty cool titles and projects over the course of my career, 
 so please check [them]({{ site.baseurl }}{% link pages/projects.html %})  out!
 
-Here is an overview of the experience I can offer:
+Here is an overview of what I can offer:
 
 <div class="row">
 {% include about/skills.html title="Languages/Engines" source=site.data.languages-frameworks %}
